@@ -1,0 +1,450 @@
+---
+title: "Introduction to QA concepts"
+subtitle: "Quality in health care"
+date: 2024-07-31
+author: Dr Ting Teck Pei
+bibliography: introduction.bib
+csl: apa.csl
+css: custom.scss
+format:
+    revealjs:
+        theme: simple
+        slide-number: c
+---
+
+## Learning objectives
+
+To
+
+*   appraise the different definitions of quality
+*   understand the various dimensions of quality in health care
+*   appreciate the rationales for the pursuit of quality in health care
+*   understand quality concepts such as ABNA, Model for improvement
+*   understand the MOH QA Problem Solving Approach Cycle
+
+# Outline
+
+*   What is Quality?
+*   Why Quality?
+*   Quality concepts
+    *   ABNA
+    *   PDSA
+*   The MOH QA Problem Solving Approach Cycle
+
+# What is Quality?
+
+---
+
+![](images/prada.jpg){fig-align="center"} 
+
+## World Health Organization (WHO)
+
+::: fragment
+> ... the extent to which health care services provided to individuals and patient populations improve desired health outcomes.
+:::
+
+::: fragment
+> In order to achieve this, health care must be safe, effective, timely, efficient, equitable and people-centred.
+:::
+
+## World Health Organization (WHO)
+
+Quality health services should be:
+
+::: {.incremental}
+
+*   **Effective** - providing evidence-based healthcare services to those who need them;
+*   **Safe** - avoiding harm to people for whom the care is intended; and
+*   **People-centred** - providing care that responds to individual preferences, needs and values.
+
+:::
+
+## World Health Organization (WHO)
+
+To realize the benefits of quality health care, health services must be:
+
+::: {.incremental}
+
+*   **Timely** – reducing waiting times and sometimes harmful delays;
+*   **Equitable** – providing care that does not vary in quality on account of gender, ethnicity, geographic location, and socio-economic status;
+*   **Integrated** – providing care that makes available the full range of health services throughout the life course;
+*   **Efficient** – maximizing the benefit of available resources and avoiding waste.
+
+:::
+
+## Dimensions
+
+*   Safe
+*   Timely
+*   Effective
+*   Equitable
+*   Efficient
+*   People-centred
+
+::: {.quote-source}
+Agency for Healthcare Research and Quality (AHRQ) / Institute of Medicine (IoM)
+:::
+
+## Quotes
+
+::: {.fragment}
+> "Quality means doing it right when no one is looking"
+
+:::: {.quote-source}
+Henry Ford
+::::
+
+:::
+
+::: {.fragment}
+> "Good quality means a predictable degree of uniformity and dependability, with a quality standard suited to the customer"
+
+:::: {.quote-source}
+W. Edwards Deming
+::::
+
+:::
+
+::: {.fragment}
+> "If you can not measure it, you can not improve it."
+
+:::: {.quote-source}
+Lord Kelvin
+::::
+
+:::
+
+## Quotes
+
+::: {.fragment}
+
+> "Quality of care is the degree to which health services for individuals and population increase the likelihood of desired outcomes and are consistent with current professional knowledge"
+
+:::: {.quote-source}
+Institute of Medicine (IOM) and Agency for Healthcare Research and Quality (AHRQ)
+::::
+
+:::
+
+# Why Quality?
+
+## Simon Sinek
+
+![](images/simon_sinek.jpeg){fig-align="center"}
+
+1.  @sinekStartWhyHow2009
+
+2.  @sinekOriginWHY2016
+
+## Simon Sinek
+
+::: {.fragment}
+> We assume, even, we know why we do what we do
+:::
+
+::: {.fragment}
+> How do you explain when things don't go as we assume?
+:::
+
+::: {.fragment}
+> How do you explain when others are able to achieve things that seem to defy all of the assumptions?
+:::
+
+::: {.fragment}
+> ... to seek out a solution, to be passionate about something again.
+:::
+
+## Simon Sinek
+
+![The Golden Circle](images/golden-circle.png){fig-align="center"}
+
+::: {.notes}
+Every person in the organisation knows WHAT they do.
+
+Some, knows HOW to do it properly. The processes. The SOP.
+
+Very few, know WHY they do what they do.
+
+Another example is RCT - you know how to do it, do you know why you are doing certain procedures in RCT?
+:::
+
+## Simon Sinek
+Why?
+
+::: {.incremental .r-fit-text}
+*   Not to earn a living, that is a result.
+*   What is your purpose? Cause? Belief? For work.
+*   Why do the organisation exist?
+:::
+
+::: {.notes}
+Objective:
+1. Untuk membantu seseorang individu untuk mencapai dan mengekalkan satu taraf kesihatan bagi membolehkannya menjalankan kehidupan ekonomi dan sosial yang produktif.
+2. Ini boleh dicapai dengan menyediakan perkhidmatan bercorak penggalakan, pencegahan, rawatan dan pemulihan yang cekap, sesuai dan berkesan dengan memberi penekanan kepada golongan-golongan yang kurang bernasib baik. 
+
+
+Vision:
+A nation working together for better health.
+Negara menggembleng tenaga ke arah kesihatan yang lebih baik.
+:::
+
+## United Nations (UN) {auto-animate=true}
+
+Sustainable Development Goals (SDG)
+
+![](images/sdg/E-WEB-Goal-01.png){width="14%"}
+![](images/sdg/E-WEB-Goal-02.png){width="14%"}
+![](images/sdg/E-WEB-Goal-03.png){width="14%"}
+![](images/sdg/E-WEB-Goal-04.png){width="14%"}
+![](images/sdg/E-WEB-Goal-05.png){width="14%"}
+![](images/sdg/E-WEB-Goal-06.png){width="14%"}
+![](images/sdg/E-WEB-Goal-07.png){width="14%"}
+![](images/sdg/E-WEB-Goal-08.png){width="14%"}
+![](images/sdg/E-WEB-Goal-09.png){width="14%"}
+![](images/sdg/E-WEB-Goal-10.png){width="14%"}
+![](images/sdg/E-WEB-Goal-11.png){width="14%"}
+![](images/sdg/E-WEB-Goal-12.png){width="14%"}
+![](images/sdg/E-WEB-Goal-13.png){width="14%"}
+![](images/sdg/E-WEB-Goal-14.png){width="14%"}
+![](images/sdg/E-WEB-Goal-15.png){width="14%"}
+![](images/sdg/E-WEB-Goal-16.png){width="14%"}
+![](images/sdg/E-WEB-Goal-17.png){width="14%"}
+
+## United Nations (UN) {auto-animate=true}
+
+SDG 3 - "Ensure healthy lives and promote well-being for all at all ages"
+
+![](images/sdg/E-WEB-Goal-03.png){width="30%"}
+
+::: {.fragment}
+**Target 3.8** Achieve universal health coverage, including financial risk protection, access to **quality** essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
+:::
+
+## WHO
+
+::: fragment
+*   Universal Health Coverage
+
+    > Equal access for all to good **quality** health services and with no financial risk for those in need of them.
+:::
+
+::: fragment
+*   Health for All
+:::
+
+## @nationalacademiesofsciencesengineeringandmedicineCurrentStateGlobal2018
+
+Burden of poor quality in health care in LMICs
+
+::: incremental
+
+*   Overall, between 5.7 and 8.4 million deaths are attributed to poor-quality care each year, amounting to 15 percent of overall deaths.
+*   Poor-quality care imposes costs of $1.4 to $1.6 trillion each year in lost productivity.
+:::
+
+## Good Medical Practice, General Medical Council UK
+
+::: fragment
+Paragraph 13
+
+>   You must take steps to monitor, maintain, develop, and improve your performance and the quality of your work, including taking part in systems of **quality assurance and quality improvement** to promote patient safety across the whole scope of your practice.
+:::
+
+## Good Medical Practice, General Medical Council UK
+
+::: {.callout-note}
+This includes:
+
+1.  contributing to discussions and decisions about improving the **quality of services and outcomes**;
+2.  taking part in regular reviews and audits of your work, and your team’s work, and responding constructively to the outcomes, taking steps to address problems, and carrying out further training where necessary;
+:::
+
+## Good Medical Practice, General Medical Council UK
+
+::: {.callout-note}
+3.  regularly taking part in training and/or continuing professional development;
+4.  regularly reflecting on your standards of practice and the care you provide, including:
+    a.  reflecting on any constructive feedback available to you;
+    b.  considering how your life experience, culture and beliefs influence your interactions with others and may impact on the decisions you make and the care you provide.
+:::
+
+# Patients' POV
+
+## Patients' POV
+
+*   Responsiveness to perceived care needs
+*   Level of communication, concern and courtesy
+*   Degree of symptom relief
+*   Level of functional improvement
+
+[@abdullahQAQIWorkbook2020 p.g. 4]
+
+## Quality in the eyes of
+
+::: columns
+
+::: {.column width="30%"}
+*General public*
+
+-   Fairness
+-   Communication
+-   Functional improvement
+-   Symptom relief
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.fragment .column width="32%"}
+*Policy makers*
+
+-   Accessibility
+-   Relevance of service
+-   Efficiency
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.fragment .column width="32%"}
+*Health care providers*
+
+-   Technically sound
+-   Treatment outcome
+:::
+
+:::
+
+# QA Concepts
+
+## Quality Assurance (QA)
+
+::: fragment
+Identifying problems in the delivery of care and designing and implementing corrective steps to overcome those problems.
+:::
+
+::: fragment
+Within the context of QA, improvement efforts are focused on raising the level of quality to meet a predefined standard. 
+:::
+
+## Quality Assurance (QA)
+
+1.  **ASSESS** quality problem (using data)
+1.  **CORRECTION** of observed defects (remedial measures)
+
+## ABNA
+
+ABNA (Achievable Benefit Not Achieved) = the difference between Optimum level and Actual level of achievement.
+
+![](images/abna-1.png)
+
+## ABNA
+
+![](images/abna-2.png)
+
+## ABNA
+
+![](images/abna-3.png)
+
+## Quality Improvement (QI)
+
+::: fragment
+Actions that are taken systematically and proactively to continuously improve the processes involved in the delivery of care, based on data.
+:::
+
+::: fragment
+QI strives to achieve the highest possible rather than reaching a predefined level of quality.
+:::
+
+::: fragment
+Processes, rather than individuals are at the centre of QI so the activities are intrinsically focused on preventing errors rather than placing blame.
+:::
+
+## Quality Improvement (QI)
+
+1.  Goal is to attain **HIGHEST POSSIBLE** level of quality
+1.  Focuses on both **PROCESSES** and outcome
+
+## Quality Improvement principles
+
+::: incremental
+1.  Understanding work in terms of processes and systems
+1.  Developing solutions by teams of providers and patients
+1.  Focusing on patient needs
+1.  Testing and measuring effects of change
+1.  Peer learning
+:::
+
+::: fragment
+### Further readings
+Adams D. (2018). Quality improvement; part 1: introduction and overview. *BJA education, 18(3)*, 89–94. https://doi.org/10.1016/j.bjae.2017.12.002
+:::
+
+## The Model of Improvement (PDSA)
+
+![Plan Do Study Act](images/PDSA.png)
+
+## The MOH QA Problem Solving Approach
+
+![QA/QI cycle from @abdullahQAQIWorkbook2020](images/MOH_QA_cycle.png)
+
+::: notes
+As you can see, studying the problem is almost half of the cycle.
+:::
+
+<!-- ```{dot}
+digraph {
+    ProbId[label="Problem identification"]
+    ProbPrio[label="Problem prioritisation"]
+    ProbAna[label="Problem analysis"]
+    Gather[label="Gathering information and analysis"]
+    IdStrategy[label="Identification of Strategy for Change (Remedial measures)"]
+    ImpStrategy[label="Implementation of Remedial Measures"]
+    Eff[label="Effects of Change"]
+
+    ProbId -> ProbPrio;
+    ProbPrio -> ProbAna;
+    ProbAna -> Gather;
+    Gather -> IdStrategy;
+    IdStrategy -> ImpStrategy;
+    ImpStrategy -> Eff;
+    Eff -> ProbId;
+    Eff -> ProbAna;
+    Eff -> Gather;
+    Eff -> IdStrategy;
+}
+``` -->
+
+# Reality check
+
+## Has increased spending resulted in improved quality?
+
+-   Without change of system it will not.
+-   Quality will only improve if healthcare providers at all levels are actively encouraged to redesign the system.
+-   Importance of data, to generate clinically convincing analyses of quality of care.
+
+@tomsonWhatWouldIt2009
+
+# References
+
+::: {#refs}
+:::
+
+# Acknowledgement
+
+Thanks to
+
+Dr. Nur Ezdiani Mohamed
+MBBCHBAO (TCD), DRPH (UKM)
+
+for her slides for
+
+From Not So Zero to Hero
+
+QA Workshop for Oral Health Programme
+
+October 2023
+
+# Thank you
+
+![](images/ending%20image.jfif)
