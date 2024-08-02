@@ -41,6 +41,10 @@ To
 
 ![](images/prada.jpg){fig-align="center"} 
 
+::: notes
+How do you define quality for a handbag?
+:::
+
 ## World Health Organization (WHO)
 
 ::: fragment
@@ -49,6 +53,10 @@ To
 
 ::: fragment
 > In order to achieve this, health care must be safe, effective, timely, efficient, equitable and people-centred.
+:::
+
+::: notes
+Generally quality measurements in health care should in a way, improve health outcomes.
 :::
 
 ## World Health Organization (WHO)
@@ -76,7 +84,7 @@ To realize the benefits of quality health care, health services must be:
 
 :::
 
-## Dimensions
+## Dimensions of Quality
 
 *   Safe
 *   Timely
@@ -182,14 +190,13 @@ Why?
 :::
 
 ::: {.notes}
-Objective:
-1. Untuk membantu seseorang individu untuk mencapai dan mengekalkan satu taraf kesihatan bagi membolehkannya menjalankan kehidupan ekonomi dan sosial yang produktif.
-2. Ini boleh dicapai dengan menyediakan perkhidmatan bercorak penggalakan, pencegahan, rawatan dan pemulihan yang cekap, sesuai dan berkesan dengan memberi penekanan kepada golongan-golongan yang kurang bernasib baik. 
-
-
 Vision:
 A nation working together for better health.
 Negara menggembleng tenaga ke arah kesihatan yang lebih baik.
+
+Objective:
+1. Untuk membantu seseorang individu untuk mencapai dan mengekalkan satu taraf kesihatan bagi membolehkannya menjalankan kehidupan ekonomi dan sosial yang produktif.
+2. Ini boleh dicapai dengan menyediakan perkhidmatan bercorak penggalakan, pencegahan, rawatan dan pemulihan yang cekap, sesuai dan berkesan dengan memberi penekanan kepada golongan-golongan yang kurang bernasib baik. 
 :::
 
 ## United Nations (UN) {auto-animate=true}
@@ -213,6 +220,12 @@ Sustainable Development Goals (SDG)
 ![](images/sdg/E-WEB-Goal-15.png){width="14%"}
 ![](images/sdg/E-WEB-Goal-16.png){width="14%"}
 ![](images/sdg/E-WEB-Goal-17.png){width="14%"}
+
+::: notes
+SDG is a set of goals listed by the UN to guide countries to move towards a better world.
+
+It encompasses all sectors, not only health, to make sure a country's development is well-rounded and sustainable.
+:::
 
 ## United Nations (UN) {auto-animate=true}
 
@@ -244,6 +257,11 @@ Burden of poor quality in health care in LMICs
 
 *   Overall, between 5.7 and 8.4 million deaths are attributed to poor-quality care each year, amounting to 15 percent of overall deaths.
 *   Poor-quality care imposes costs of $1.4 to $1.6 trillion each year in lost productivity.
+
+:::
+
+::: notes
+One of the core duty of health sector is to ensure country stays productive, through maintaining good health.
 :::
 
 ## Good Medical Practice, General Medical Council UK
@@ -425,7 +443,7 @@ digraph {
 
 -   Without change of system it will not.
 -   Quality will only improve if healthcare providers at all levels are actively encouraged to redesign the system.
--   Importance of data, to generate clinically convincing analyses of quality of care.
+-   Data is important to generate clinically convincing analyses of quality of care.
 
 @tomsonWhatWouldIt2009
 
