@@ -2,14 +2,18 @@
 title: "Introduction to QA concepts"
 subtitle: "Quality in health care"
 date: 2024-07-31
+event: QA Workshop BKP JKWPKLP 2024
 author: Dr Ting Teck Pei
+institute: Oral Health Division, JKWPKLP
 bibliography: introduction.bib
 csl: apa.csl
 css: custom.scss
 format:
     revealjs:
-        theme: simple
+        theme: [simple, custom.scss]
         slide-number: c
+        template-partials:
+            - title-slide.html
 ---
 
 ## Learning objectives
