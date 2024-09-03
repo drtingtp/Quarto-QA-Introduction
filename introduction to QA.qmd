@@ -75,7 +75,7 @@ Quality health services should be:
 
 To realize the benefits of quality health care, health services must be:
 
-::: {.incremental}
+::: {.incremental style="font-size: 90%;"}
 
 *   **Timely** – reducing waiting times and sometimes harmful delays;
 *   **Equitable** – providing care that does not vary in quality on account of gender, ethnicity, geographic location, and socio-economic status;
@@ -148,7 +148,7 @@ Institute of Medicine (IOM) and Agency for Healthcare Research and Quality (AHRQ
 
 2.  @sinekOriginWHY2016
 
-## Simon Sinek
+## Simon Sinek - Start With Why - Quotes
 
 ::: {.fragment}
 > We assume, even, we know why we do what we do
@@ -166,9 +166,9 @@ Institute of Medicine (IOM) and Agency for Healthcare Research and Quality (AHRQ
 > ... to seek out a solution, to be passionate about something again.
 :::
 
-## Simon Sinek
+## Simon Sinek - The Golden Circle
 
-![The Golden Circle](images/golden-circle.png){fig-align="center"}
+![](images/golden-circle.png){fig-align="center"}
 
 ::: {.notes}
 Every person in the organisation knows WHAT they do.
@@ -183,13 +183,16 @@ Another example is RCT - you know how to do it, do you know why you are doing ce
 ## Simon Sinek
 Why?
 
-::: {.incremental .r-fit-text}
+::: {.incremental}
 *   Not to earn a living, that is a result.
 *   What is your purpose? Cause? Belief? For work.
 *   Why do the organisation exist?
+*   Why do the MOH exist?
 :::
 
 ::: {.notes}
+Why do the MOH exists?
+
 Vision:
 A nation working together for better health.
 Negara menggembleng tenaga ke arah kesihatan yang lebih baik.
@@ -342,21 +345,25 @@ This includes:
 ## Quality Assurance (QA)
 
 ::: fragment
-Identifying problems in the delivery of care and designing and implementing corrective steps to overcome those problems.
+Definition:
+
+> Identifying problems in the delivery of care and designing and implementing corrective steps to overcome those problems.
 :::
 
 ::: fragment
 Within the context of QA, improvement efforts are focused on raising the level of quality to meet a predefined standard. 
 :::
 
-## Quality Assurance (QA)
+## Quality Assurance (QA) summary
 
 1.  **ASSESS** quality problem (using data)
 1.  **CORRECTION** of observed defects (remedial measures)
 
 ## ABNA
 
-ABNA (Achievable Benefit Not Achieved) = the difference between Optimum level and Actual level of achievement.
+ABNA (Achievable Benefit Not Achieved):
+
+> The difference between Optimum level and Actual level of achievement.
 
 ![](images/abna-1.png)
 
@@ -371,7 +378,9 @@ ABNA (Achievable Benefit Not Achieved) = the difference between Optimum level an
 ## Quality Improvement (QI)
 
 ::: fragment
-Actions that are taken systematically and proactively to continuously improve the processes involved in the delivery of care, based on data.
+Definition:
+
+> Actions that are taken systematically and proactively to continuously improve the processes involved in the delivery of care, based on data.
 :::
 
 ::: fragment
@@ -382,7 +391,7 @@ QI strives to achieve the highest possible rather than reaching a predefined lev
 Processes, rather than individuals are at the centre of QI so the activities are intrinsically focused on preventing errors rather than placing blame.
 :::
 
-## Quality Improvement (QI)
+## Quality Improvement (QI) summary
 
 1.  Goal is to attain **HIGHEST POSSIBLE** level of quality
 1.  Focuses on both **PROCESSES** and outcome
@@ -414,29 +423,6 @@ Adams D. (2018). Quality improvement; part 1: introduction and overview. *BJA ed
 As you can see, studying the problem is almost half of the cycle.
 :::
 
-<!-- ```{dot}
-digraph {
-    ProbId[label="Problem identification"]
-    ProbPrio[label="Problem prioritisation"]
-    ProbAna[label="Problem analysis"]
-    Gather[label="Gathering information and analysis"]
-    IdStrategy[label="Identification of Strategy for Change (Remedial measures)"]
-    ImpStrategy[label="Implementation of Remedial Measures"]
-    Eff[label="Effects of Change"]
-
-    ProbId -> ProbPrio;
-    ProbPrio -> ProbAna;
-    ProbAna -> Gather;
-    Gather -> IdStrategy;
-    IdStrategy -> ImpStrategy;
-    ImpStrategy -> Eff;
-    Eff -> ProbId;
-    Eff -> ProbAna;
-    Eff -> Gather;
-    Eff -> IdStrategy;
-}
-``` -->
-
 # Reality check
 
 ## Has increased spending resulted in improved quality?
@@ -461,7 +447,7 @@ MBBCHBAO (TCD), DRPH (UKM)
 
 for her slides for
 
-From Not So Zero to Hero
+*From Not So Zero to Hero*
 
 QA Workshop for Oral Health Programme
 
