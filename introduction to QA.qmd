@@ -362,7 +362,7 @@ ABNA (Achievable Benefit Not Achieved) = the difference between Optimum level an
 
 ## ABNA
 
-![](images/abna-2.png)
+![](images/abna-2 v2.png)
 
 ## ABNA
 
