@@ -277,18 +277,16 @@ Paragraph 13
 
 ## Good Medical Practice, General Medical Council UK
 
-::: {.callout-note}
-This includes:
-
-1.  contributing to discussions and decisions about improving the **quality of services and outcomes**;
-2.  taking part in regular reviews and audits of your work, and your team’s work, and responding constructively to the outcomes, taking steps to address problems, and carrying out further training where necessary;
+::: {.callout-note title="Scope of continuous improvement in GMP"}
+1.  Contributing to discussions and decisions about improving the **quality of services and outcomes**;
+2.  Taking part in regular reviews and audits of your work, and your team’s work, and responding constructively to the outcomes, taking steps to address problems, and carrying out further training where necessary;
 :::
 
 ## Good Medical Practice, General Medical Council UK
 
-::: {.callout-note}
-3.  regularly taking part in training and/or continuing professional development;
-4.  regularly reflecting on your standards of practice and the care you provide, including:
+::: {.callout-note title="Scope of continuous improvement in GMP"}
+3.  Regularly taking part in training and/or continuing professional development;
+4.  Regularly reflecting on your standards of practice and the care you provide, including:
     a.  reflecting on any constructive feedback available to you;
     b.  considering how your life experience, culture and beliefs influence your interactions with others and may impact on the decisions you make and the care you provide.
 :::
